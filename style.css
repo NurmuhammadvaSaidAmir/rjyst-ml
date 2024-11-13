@@ -1,0 +1,15 @@
+#vbn{
+    background-color: rgb(72, 87, 72);
+}
+.box{
+    width: 700px;
+    height: 400px;
+    background-color: aquamarine;
+    border: 10px solid red;
+    text-align: center;
+}
+#zokir{
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
